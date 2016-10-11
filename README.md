@@ -1,1 +1,1 @@
-# angularTest1
+# Simple test project with AngularJs
