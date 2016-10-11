@@ -1,1 +1,1 @@
-# Simple test project with AngularJs
+# Simple test project with AngularJs with .NET
